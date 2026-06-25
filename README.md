@@ -16,7 +16,6 @@ Alakshya is a Python-based algorithmic trading bot designed to automate market a
 
 - Python
 - Pandas
-- NumPy
 - APIs
 - Git & GitHub
 
@@ -56,11 +55,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the main file:
+in the v5 folder run main.py with putting your own api and secret key from binance:
 
-```bash
-python main.py
-```
+in v5 you will have main.py run it 
+
 
 ## Learning Goals
 
